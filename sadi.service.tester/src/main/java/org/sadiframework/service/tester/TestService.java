@@ -20,7 +20,7 @@ import org.sadiframework.client.testing.TestCase;
 import org.sadiframework.utils.ModelDiff;
 import org.sadiframework.utils.RdfUtils;
 
-import com.hp.hpl.jena.rdf.model.Model;
+import org.apache.jena.rdf.model.Model;
 
 /**
  * A Maven plugin to test a SADI service.
